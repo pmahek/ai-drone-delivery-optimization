@@ -9,6 +9,8 @@ I recently developed a system that goes beyond simple prediction and actually ma
 * Considers battery constraints
 * Suggests charging stops during delivery
 * Provides a route timeline like real delivery platforms
+
+
 ⚠️ Random Forest model file is not included due to size constraints.
 Run `python src/model_training.py` to generate it.
 🔹 Tech used:
